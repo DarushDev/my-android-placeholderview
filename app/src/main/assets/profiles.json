@@ -1,0 +1,50 @@
+[
+  {
+    "url":"https://i.imgur.com/Kws1Dydh.jpg",
+    "name":"White Cat",
+    "age":3,
+    "location":"New York"
+  },
+  {
+    "url":"https://i.imgur.com/G1atLLAh.jpg",
+    "name":"Twins",
+    "age":1,
+    "location":"California"
+  },
+  {
+    "url":"https://i.imgur.com/LaQslj2h.jpg",
+    "name":"Grey Cat",
+    "age":4,
+    "location":"Atlantic City"
+  },
+  {
+    "url":"https://i.imgur.com/NF2OHlZh.jpg",
+    "name":"Tiger Cat",
+    "age":1.5,
+    "location":"New City"
+  },
+  {
+    "url":"https://i.imgur.com/EMKosHXh.jpg",
+    "name":"Snow Cat",
+    "age":3,
+    "location":"Manhattan"
+  },
+  {
+    "url":"https://i.imgur.com/3iagMS2h.jpg",
+    "name":"Leopard Cat",
+    "age":2,
+    "location":"Future Westros"
+  },
+  {
+    "url":"https://i.imgur.com/rD6Nz11h.jpg",
+    "name":"Black Cat",
+    "age":6,
+    "location":"India"
+  },
+  {
+    "url":"https://i.imgur.com/djZhOVNh.jpg",
+    "name":"Sleepy Cat",
+    "age":8,
+    "location":"Taxes"
+  }
+]
