@@ -7,6 +7,7 @@ import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
 import com.mindorks.placeholderview.SwipePlaceHolderView;
+import com.mindorks.placeholderview.annotations.Layout;
 import com.mindorks.placeholderview.annotations.Resolve;
 import com.mindorks.placeholderview.annotations.View;
 import com.mindorks.placeholderview.annotations.swipe.SwipeCancelState;
@@ -19,6 +20,7 @@ import com.mindorks.placeholderview.annotations.swipe.SwipeOutState;
  * Created by Darush on 1/5/2018.
  */
 
+@Layout(R.layout.tinder_card_view)
 public class TinderCard {
     
     public static final String TAG = "TinderCard";

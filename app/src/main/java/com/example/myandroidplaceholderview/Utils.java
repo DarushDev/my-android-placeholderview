@@ -27,7 +27,7 @@ public class Utils {
         try {
             GsonBuilder gsonBuilder = new GsonBuilder();
             Gson gson = gsonBuilder.create();
-            JSONArray jsonArray = new JSONArray(loadJsonFromAsset(context, "profile.json"));
+            JSONArray jsonArray = new JSONArray(loadJsonFromAsset(context, "profiles.json"));
             List<Profile> profileList = new ArrayList<>();
             for(int i=0; i<jsonArray.length(); i++) {
                 Profile profile = gson.fromJson(jsonArray.getString(i), Profile.class);
